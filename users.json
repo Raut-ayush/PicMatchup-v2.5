@@ -1,0 +1,44 @@
+[
+  {
+    "email": "rautayush@gmail.com",
+    "password": "$2b$10$CVa271aWOVRT9h3X0dfCZ.wXXK0zo4Smwm4YKald5zmgJmdU34qz.",
+    "yearOfBirth": "2004",
+    "phoneNumber": "992239",
+    "image": "1718178590421.png"
+  },
+  {
+    "email": "ayush@gmail.com",
+    "password": "$2b$10$mpECF1I.BGuA9D8Ve2ceV.MrVNerPcXYQUGku/hCACixfgnuK.llm",
+    "yearOfBirth": "2004",
+    "phoneNumber": "99223",
+    "image": "1718179629206.jpg"
+  },
+  {
+    "email": "ayush1@gmail.com",
+    "password": "$2b$10$DgqdSIySLi.LDebiqtzRme3/7O2hsU9hXaUUDSeBl7xh614ETfDIO",
+    "yearOfBirth": "2002",
+    "phoneNumber": "99229",
+    "image": "1718180478696.jpg"
+  },
+  {
+    "email": "ayush2@gmail.com",
+    "password": "$2b$10$BPGwilRWiylyeiZhuR0LBuWUo25FkvgWlFp0bJL//sVi.tB5QWaDO",
+    "yearOfBirth": "1000",
+    "phoneNumber": "12345",
+    "image": null
+  },
+  {
+    "email": "ayushr@gmail.com",
+    "password": "$2b$10$7PGQKH//2XaNO3MA2MBl2.YaX5R7faPtkjg7lN.rmAPX3Ey9gyZLe",
+    "yearOfBirth": "2000",
+    "phoneNumber": "98765",
+    "image": null
+  },
+  {
+    "email": "raut@gmail.com",
+    "password": "$2b$10$WzYZUQmsTchnYSF6JN/WcucwkgmQUM68Y6MTZ5sV9B4egZrhU0Yh.",
+    "yearOfBirth": "2000",
+    "phoneNumber": "12345",
+    "image": null
+  }
+]
